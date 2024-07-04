@@ -1,4 +1,4 @@
-# Carrinho de Compras
+# 🛒 Carrinho de Compras
 
 Este é um projeto simples de um carrinho de compras, onde você pode adicionar produtos com suas quantidades e preços, e visualizar o total acumulado. O projeto inclui HTML, CSS e JavaScript.
 
